@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dien2904/dien2904.github.io.git/static/css/main.b6462c8e.css",
+    "main.js": "/dien2904/dien2904.github.io.git/static/js/main.37d90f1d.js",
+    "static/js/453.a6a97343.chunk.js": "/dien2904/dien2904.github.io.git/static/js/453.a6a97343.chunk.js",
+    "static/media/logo.svg": "/dien2904/dien2904.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dien2904/dien2904.github.io.git/index.html",
+    "main.b6462c8e.css.map": "/dien2904/dien2904.github.io.git/static/css/main.b6462c8e.css.map",
+    "main.37d90f1d.js.map": "/dien2904/dien2904.github.io.git/static/js/main.37d90f1d.js.map",
+    "453.a6a97343.chunk.js.map": "/dien2904/dien2904.github.io.git/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6462c8e.css",
+    "static/js/main.37d90f1d.js"
+  ]
+}
